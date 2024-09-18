@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|c:\\users\\asus\\desktop\\githuba at\u0131lacaklar\\meetinguygulamas\u0131\\meetinguygulamas\u0131\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276A3AD8-B397-4A93-9797-60FB34EFC9E9}|MeetingUygulamas\u0131\\MeetingUygulamas\u0131.csproj|solutionrelative:meetinguygulamas\u0131\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\List.cshtml",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Views\\Meeting\\List.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\List.cshtml",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Views\\Meeting\\List.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T20:37:55.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T19:08:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-02T19:08:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Controllers\\MeetingController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:56:17.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Models\\UserInfo.cs",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Models\\UserInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:07:08.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\Apply.cshtml",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Views\\Meeting\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\Apply.cshtml",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Views\\Meeting\\Apply.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T19:56:28.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Models\\Repository.cs",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Models\\Repository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:18:33.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeetingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Models\\MeetingInfo.cs",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Models\\MeetingInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Models\\MeetingInfo.cs",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Models\\MeetingInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:26:37.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\Details.cshtml",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Views\\Meeting\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\Details.cshtml",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Views\\Meeting\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:31:00.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Views\\Meeting\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Views\\Meeting\\Thanks.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T20:24:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T20:29:25.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeetingUygulamas\u0131\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Githuba at\u0131lacaklar\\MeetingUygulamas\u0131\\MeetingUygulamas\u0131\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeetingUygulamas\u0131\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:55:39.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
